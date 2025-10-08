@@ -1,2 +1,3 @@
-# 2dGame
-Collect treats to gain points and to level up, hit the pufferfish and you'll lose
+# 2D Game
+Use Processing to open files
+To exit full screen press ESC
